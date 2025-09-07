@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+streamlit
+faiss-cpu
+sentence-transformers
+transformers
+torch
+PyPDF2
+python-multipart
+beautifulsoup4
+markdown
+requests
